@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "616339231B93B0C3005FACF9"
-               BuildableName = "wirteAndReadFromFileAndTextView.app"
-               BlueprintName = "wirteAndReadFromFileAndTextView"
+               BuildableName = "evaluarExpresionAFD.app"
+               BlueprintName = "evaluarExpresionAFD"
                ReferencedContainer = "container:evaluarExpresionAFD.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,8 +29,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "616339351B93B0C3005FACF9"
-               BuildableName = "wirteAndReadFromFileAndTextViewTests.xctest"
-               BlueprintName = "wirteAndReadFromFileAndTextViewTests"
+               BuildableName = "evaluarExpresionAFDTests.xctest"
+               BlueprintName = "evaluarExpresionAFDTests"
                ReferencedContainer = "container:evaluarExpresionAFD.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -47,8 +47,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "616339351B93B0C3005FACF9"
-               BuildableName = "wirteAndReadFromFileAndTextViewTests.xctest"
-               BlueprintName = "wirteAndReadFromFileAndTextViewTests"
+               BuildableName = "evaluarExpresionAFDTests.xctest"
+               BlueprintName = "evaluarExpresionAFDTests"
                ReferencedContainer = "container:evaluarExpresionAFD.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -57,8 +57,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "616339231B93B0C3005FACF9"
-            BuildableName = "wirteAndReadFromFileAndTextView.app"
-            BlueprintName = "wirteAndReadFromFileAndTextView"
+            BuildableName = "evaluarExpresionAFD.app"
+            BlueprintName = "evaluarExpresionAFD"
             ReferencedContainer = "container:evaluarExpresionAFD.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -77,8 +77,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "616339231B93B0C3005FACF9"
-            BuildableName = "wirteAndReadFromFileAndTextView.app"
-            BlueprintName = "wirteAndReadFromFileAndTextView"
+            BuildableName = "evaluarExpresionAFD.app"
+            BlueprintName = "evaluarExpresionAFD"
             ReferencedContainer = "container:evaluarExpresionAFD.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -96,8 +96,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "616339231B93B0C3005FACF9"
-            BuildableName = "wirteAndReadFromFileAndTextView.app"
-            BlueprintName = "wirteAndReadFromFileAndTextView"
+            BuildableName = "evaluarExpresionAFD.app"
+            BlueprintName = "evaluarExpresionAFD"
             ReferencedContainer = "container:evaluarExpresionAFD.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

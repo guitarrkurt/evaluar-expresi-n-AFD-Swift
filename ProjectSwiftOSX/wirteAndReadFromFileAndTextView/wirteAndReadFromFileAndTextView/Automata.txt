@@ -1,14 +1,14 @@
 Alfabeto:
-x,y,w,z
+0,1,2
 Estados:
-0,1,2,3,4
+0,1,2,3
 Estado Inicial:
 0
 Estados Finales:
-3,4
+2,3
 Matriz de transicion:
-0,0,2,1
-_,4,_,1
-_,_,3,_
-_,_,2,_
-_,_,_,_
+_,1,_
+2,1,3
+_,3,_
+_,_,1
+

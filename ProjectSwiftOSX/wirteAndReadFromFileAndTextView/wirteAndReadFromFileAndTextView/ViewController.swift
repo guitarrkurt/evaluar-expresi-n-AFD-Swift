@@ -103,8 +103,14 @@ class ViewController: NSViewController {
     @IBAction func evaluarExpresion(sender: NSButton) {
         //Read Expresion
         if textView.string != ""{
-            expresion = (textView.string)!.componentsSeparatedByString(",")
-            println("expresion Ingresada Usuario: \(expresion)")
+            let cadena: String = textView.string!
+            /*correccion*/
+            for (index, character) in enumerate(cadena) {
+                //do something with the character at index
+                println("character: \(character)")
+                expresion.append("\(character)")
+            }
+            println("expresion: \(expresion)")
         } else {
             var txt = "Por favor ingresa una expresion"
             println(txt)
@@ -169,6 +175,7 @@ class ViewController: NSViewController {
 
         
         }
+        expresion = []
     }
 
     func caracteresExprInAlfabeto(expresion: [String], alfabeto: [String]) -> Bool{
